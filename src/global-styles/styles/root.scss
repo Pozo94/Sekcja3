@@ -1,0 +1,21 @@
+/// Root Styles file
+/// Here we define all the root variables we need for our project.
+/// For examples see Material Design color system: https://m2.material.io/design/color/the-color-system.html
+
+:root {
+    --color-primary: #000000;
+    --color-on-surface: #141414;
+
+    //Layout colors
+    --color-blue-primary:#3D63AC;
+    --color-blue-secondary:#E4E9F3;
+
+    --color-green-primary:#428A2F;
+    --color-green-secondary:#E5EFE2;
+
+    --color-olive-primary:#B09E3D;
+    --color-olive-secondary:#F4F1E4;
+
+    --color-text-hoover: #001AFF;
+    --color-button-pressed:#F1F5FF;
+}
